@@ -1,7 +1,8 @@
-# Troisième Bras Surnuméraire - Projet XYZ
+# Troisième Bras Surnuméraire - Projet Lumière SVP
 
 ## Introduction
-Le Troisième Bras Surnuméraire est un concept innovant dans le domaine de l'assistance au geste, offrant la possibilité d'explorer diverses interactions entre l'Homme et le Robot. Ce projet vise à faciliter la mise en œuvre d'un tel dispositif en développant un robot de 2 degrés de liberté, porté sur l'épaule de l'utilisateur.
+Le Troisième Bras Surnuméraire est un concept innovant dans le domaine de l'assistance au geste, offrant la possibilité d'explorer diverses interactions entre l'Homme et le Robot. 
+Ce projet vise à faciliter la mise en œuvre d'un tel dispositif en développant un robot de 2 degrés de liberté, porté sur l'épaule de l'utilisateur.
 
 ## Fonctionnalités
 - Bras robotique avec 2 degrés de liberté.
