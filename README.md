@@ -13,6 +13,7 @@ Ce projet vise à faciliter la mise en œuvre d'un tel dispositif en développan
 1. Clonez ce dépôt sur votre machine locale.
    ```bash
    git clone https://git@github.com:GwenB27/Lumiere-articulee.git
+2. Il faudra télécharger les packages suivants : numpy, opencv-python, scipy, pypot
 
 ## 🔍 About this project
 
