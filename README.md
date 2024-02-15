@@ -1,6 +1,6 @@
 # Troisième Bras Surnuméraire - Projet Lumière SVP
 
-## 📄 This project in short
+## 📄 Ce projet en bref
 Le Troisième Bras Surnuméraire est un concept innovant dans le domaine de l'assistance au geste, offrant la possibilité d'explorer diverses interactions entre l'Homme et le Robot. 
 Ce projet vise à faciliter la mise en œuvre d'un tel dispositif en développant un robot de 2 degrés de liberté, porté sur l'épaule de l'utilisateur.
 
@@ -15,8 +15,8 @@ Ce projet vise à faciliter la mise en œuvre d'un tel dispositif en développan
    git clone https://git@github.com:GwenB27/Lumiere-articulee.git
 2. Il faudra télécharger les packages suivants : numpy, opencv-python, scipy, pypot
 
-## 🔍 About this project
+## 🔍 A propos de ce projet
 
-👨‍👨‍👦 Author : Gwendal Bellec, Valentin Herrero, Mortadha Ferchichi
+👨‍👨‍👦 Auteur : Gwendal Bellec, Valentin Herrero, Mortadha Ferchichi
 
-🔒 Confidentiality : Privé
+🔒 Confidentialité : Privé
