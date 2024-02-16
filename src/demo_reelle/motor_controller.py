@@ -40,6 +40,9 @@ class MotorController():
         self.dxl_io.set_joint_mode([id])
         self.dxl_io.set_goal_position(dict(zip([id], itertools.repeat(angle))))
 
+    def get_postion(self, id):
+        return self.dxl_io.get_present_position([id])
+
     def motor_stop(self, id):
         self.set_speed(id, 0)
     
